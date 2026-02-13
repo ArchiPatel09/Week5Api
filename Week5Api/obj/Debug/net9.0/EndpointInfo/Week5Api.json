@@ -1,0 +1,30 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Week5Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/hello": {
+      "get": {
+        "tags": [
+          "Week5Api"
+        ],
+        "operationId": "GetHello",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
