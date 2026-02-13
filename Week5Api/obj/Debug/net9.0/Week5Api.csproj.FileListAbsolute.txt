@@ -27,10 +27,10 @@ C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\We
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\Week5Api.csproj.Up2Date
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\Week5Api.dll
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\refint\Week5Api.dll
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\Week5Api.pdb
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\Week5Api.genruntimeconfig.cache
 C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\ref\Week5Api.dll
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Lab 4\Week5Api\Week5Api\obj\Debug\net9.0\Week5Api.sourcelink.json
